@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": "2",
+      "nameProduct": "Product 5",
+      "priceProduct": 1007,
+      "productionSiteProduct": "Thôn 8 - Triệu Vân",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-06-07"
+    },
+    {
+      "id": "3",
+      "nameProduct": "Product 3",
+      "priceProduct": 30.99,
+      "productionSiteProduct": "Site C",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-05-31"
+    },
+    {
+      "id": "4",
+      "nameProduct": "Product 4",
+      "priceProduct": 40.99,
+      "productionSiteProduct": "Site D",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-08-19"
+    },
+    {
+      "id": "5",
+      "nameProduct": "Product 5",
+      "priceProduct": 50.99,
+      "productionSiteProduct": "Site E",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-08-19"
+    },
+    {
+      "id": "6",
+      "nameProduct": "Product 1",
+      "priceProduct": 10.99,
+      "productionSiteProduct": "Site A",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-04-29"
+    },
+    {
+      "id": "7",
+      "nameProduct": "Product 2",
+      "priceProduct": 20.99,
+      "productionSiteProduct": "Site B",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-05-14"
+    },
+    {
+      "id": "8",
+      "nameProduct": "Product 3",
+      "priceProduct": 30.99,
+      "productionSiteProduct": "Site C",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-05-31"
+    },
+    {
+      "id": "9",
+      "nameProduct": "Product 4",
+      "priceProduct": 40.99,
+      "productionSiteProduct": "Site D",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-07-09"
+    },
+    {
+      "id": "10",
+      "nameProduct": "Product 5",
+      "priceProduct": 50.99,
+      "productionSiteProduct": "Site E",
+      "manufacturingDate": "2024-04-01",
+      "expirationDate": "2024-08-19"
+    }
+  ]
+}
